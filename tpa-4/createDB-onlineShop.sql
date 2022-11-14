@@ -1,0 +1,6 @@
+CREATE DATABASE onlineShop;
+
+USE onlineShop;
+
+SHOW DATABASES;
+
